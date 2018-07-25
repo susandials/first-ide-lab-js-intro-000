@@ -1,3 +1,4 @@
 Hello, World!
-`We need to get ${30 / 100 * 100}% on this test`
 Susan Dials trying to learn code!!!!!
+
+
